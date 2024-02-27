@@ -1,6 +1,6 @@
 # 小南瓜机场官网地址
 
-最新地址：[lwjyj.com](https://app.lwjyj.com/index.php#/register?code=UCWpUFPJ)
+最新地址：[lwjyj.com](https://app.lwjyj.com/#/register?code=UCWpUFPJ)
 
 ## 小南瓜机场介绍
 
